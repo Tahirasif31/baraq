@@ -140,7 +140,7 @@
     flex-direction: column;
   }
 }
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 490px) {
   .contactContainer {
     flex-direction: column;
   }

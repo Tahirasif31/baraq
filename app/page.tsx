@@ -29,19 +29,34 @@ const SERVICES = [
   },
 
   {
-    title: "Duct Cleaning Service",
+    title: "Water Pumps",
     description:
-      "Enhance your home's air quality with our professional duct cleaning service. Our experienced team eliminates dust, debris, and allergens, promoting a cleaner and healthier living space for you and your family.",
+      "Pumping Solutions (Building Service, Residential & Commercial, Irrigation & Agriculture, Industrial & Infrastructure, Waste Water)",
   },
   {
-    title: "Ductwork Inspection / Repair",
+    title: "Swimming Pools",
     description:
-      "Experience improved air circulation and quality with our meticulous ductwork inspection and repair services. Trust our skilled technicians to optimize your duct system for enhanced comfort and efficiency.",
+      "We provide different type of Steam and Sauna. Steam baths use moist heat, saunas offer dry heat sessions. Steam rooms are kept at around...",
   },
   {
-    title: "Preventive Maintenance",
+    title: "Electrical & Plumbing",
     description:
-      "Secure the longevity of your HVAC system with our preventive maintenance plans. Our tailored packages include regular inspections and tune-ups to keep your system running efficiently year-round.",
+      "We offer full range of electrical and plumbing services for both residential and commercial clients. We provide qualified and trained...",
+  },
+  {
+    title: "Motor Winding",
+    description:
+      "We aim to get it right the first time, in good time and with the minimum of concern. We know how crucial it is to get your equipment...",
+  },
+  {
+    title: "Solar Water Heaters",
+    description:
+      "We provide reliable turnkey solar central heating systems to residential, commercial, and industrial facilities. We are professionally...",
+  },
+  {
+    title: "Solar Water Heaters",
+    description:
+      "We provide reliable turnkey solar central heating systems to residential, commercial, and industrial facilities. We are professionally...",
   },
 ];
 

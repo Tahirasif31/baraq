@@ -50,18 +50,23 @@ function Footer() {
               </Link>
             </li>
             <li className={styles.link}>
-              <Link href={"/categories"} className={styles.link}>
-                Categories
+              <Link href={"#about"} className={styles.link}>
+                About
               </Link>
             </li>
             <li className={styles.link}>
-              <Link href={"/privacy"} className={styles.link}>
-                Privacy Policy
+              <Link href={"#services"} className={styles.link}>
+                Services
               </Link>
             </li>
             <li className={styles.link}>
-              <Link href={"/contact-us"} className={styles.link}>
-                Contact us
+              <Link href={"#contact"} className={styles.link}>
+                Contact
+              </Link>
+            </li>
+            <li className={styles.link}>
+              <Link href={"#solutions"} className={styles.link}>
+                Top Solutions
               </Link>
             </li>
           </ul>

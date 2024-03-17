@@ -68,7 +68,9 @@ export default function Home() {
         <About />
       </section>
       <GlobeDemo />
-      <ExpertsTeam />
+      <div id="solutions">
+        <ExpertsTeam />
+      </div>
       <section
         id="services"
         className="mx-auto xl:max-w-[1080px] md:max-w-[1000px]"
@@ -102,7 +104,9 @@ export default function Home() {
             <SparklesPreview />
           </div>
         </div>
-        <GetQuote />
+        <div id="contact">
+          <GetQuote />
+        </div>
       </div>
     </div>
   );

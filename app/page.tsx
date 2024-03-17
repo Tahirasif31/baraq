@@ -13,17 +13,17 @@ const review = [{}];
 
 const SERVICES = [
   {
-    title: "Split / Ac Repair",
+    title: "All Kind of Split / Ac Repair",
     description:
       "Our Split AC repair service offers quick and efficient solutions to keep your cooling system running smoothly. Our expert technicians diagnose and fix issues with precision, ensuring optimal performance and comfort.",
   },
   {
-    title: "AC Ventilation Installation",
+    title: "Building Centeral Cooling System",
     description:
-      "Experience our efficient AC ventilation installation service, guaranteeing optimal indoor air quality and comfort. Our expert technicians ensure a seamless installation process, providing peace of mind.",
+      "Experience our efficient AC ventilation installation service, guaranteeing optimal indoor air quality and comfort. Our expert technicians ensure a seamless installation process.",
   },
   {
-    title: "Air Filteration System Installation",
+    title: "BUILDING FAHU AHU EXHAUST SYSTEM",
     description:
       "Discover our air filtration system installation service for superior indoor air quality. Our skilled technicians ensure seamless installation, promoting a healthy and comfortable environment",
   },
@@ -54,9 +54,9 @@ const SERVICES = [
       "We provide reliable turnkey solar central heating systems to residential, commercial, and industrial facilities. We are professionally...",
   },
   {
-    title: "Solar Water Heaters",
+    title: "Professional Paint Services",
     description:
-      "We provide reliable turnkey solar central heating systems to residential, commercial, and industrial facilities. We are professionally...",
+      "Enhance your online presence with our expert paint service, bringing vibrant colors and polished designs to your website. Elevate your brand today!",
   },
 ];
 

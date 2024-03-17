@@ -1,6 +1,7 @@
 import React from "react";
 import { Meteors } from "./ui/meteors";
 import Image from "next/image";
+import Link from "next/link";
 
 interface MeteorProps {
   title: string;
@@ -37,17 +38,18 @@ export function Meteor({ title, description }: MeteorProps) {
           <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
             {description}
           </p>
-
-          <button className="flex gap-2 items-center border px-4 py-1 rounded-lg  border-gray-500 text-gray-300">
-            Book Now
-            <Image
-              src={"/booking.png"}
-              alt="whatsapp"
-              className="mt-[2px]"
-              width={18}
-              height={18}
-            />
-          </button>
+          <Link href={"tel:+971503497413"}>
+            <button className="flex gap-2 items-center border px-4 py-1 rounded-lg  border-gray-500 text-gray-300">
+              Book Now
+              <Image
+                src={"/booking.png"}
+                alt="whatsapp"
+                className="mt-[2px]"
+                width={18}
+                height={18}
+              />
+            </button>
+          </Link>
 
           {/* Meaty part - Meteor effect */}
           <Meteors number={20} />

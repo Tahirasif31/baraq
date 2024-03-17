@@ -23,7 +23,7 @@ const content = [
   {
     title: "Our Mission",
     description:
-      "Our mission at Ac Tech is to provide reliable, efficient, and affordable air conditioning repair services to our valued customers. We strive to ensure optimal comfort and satisfaction by delivering prompt and effective solutions to all AC-related issues. With a focus on professionalism, integrity, and customer-centricity, we aim to exceed expectations and build lasting relationships with our clients. Trust us to keep your home or business cool and comfortable, no matter the season. Your comfort is our priority.",
+      "Our mission at Al Baraq Facilities is to provide reliable, efficient, and affordable air conditioning repair services to our valued customers. We strive to ensure optimal comfort and satisfaction by delivering prompt and effective solutions to all AC-related issues. With a focus on professionalism, integrity, and customer-centricity, we aim to exceed expectations and build lasting relationships with our clients. Trust us to keep your home or business cool and comfortable, no matter the season. Your comfort is our priority.",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image
@@ -39,7 +39,7 @@ const content = [
   {
     title: "Service Areas",
     description:
-      "we proudly serve a wide range of areas across the United Arab Emirates, including Sharjah, Dubai, and several other cities. Our commitment to excellence extends to every corner of the region, ensuring that residents and businesses alike have access to top-notch air conditioning repair services. Whether you're located in bustling urban centers or tranquil suburban neighborhoods, our team is dedicated to providing prompt, reliable, and professional solutions to your AC needs. With our extensive service area coverage, you can trust us to keep you cool and comfortable no matter where you are in the UAE. Contact us today to schedule your appointment and experience the difference of working with AC Tech",
+      "we proudly serve a wide range of areas across the United Arab Emirates, including Sharjah, Dubai, and several other cities. Our commitment to excellence extends to every corner of the region, ensuring that residents and businesses alike have access to top-notch air conditioning repair services. Whether you're located in bustling urban centers or tranquil suburban neighborhoods, our team is dedicated to providing prompt, reliable, and professional solutions to your AC needs. With our extensive service area coverage, you can trust us to keep you cool and comfortable no matter where you are in the UAE. Contact us today to schedule your appointment and experience the difference of working with Al Baraq Facilities",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image

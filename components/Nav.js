@@ -5,7 +5,7 @@ function Nav() {
   const [showNav, setShowNav] = useState();
   return (
     <nav className="flex justify-between md:mt-4 py-2 z-50 align-middle items-center 2xl:mx-28 xl:mx-20 md:mx-8 border border-[#FFFFFF]/[0.16] px-4 rounded-lg bg-[#00000052]">
-      <span className="ml-3 ">AL BARAQ FACILITATOR</span>
+      <span className="ml-3 ">AL BARAQ FACILITIES</span>
       <div
         className={`md:static absolute bg-[#0000004f] md:bg-transparent min-h-[16vh] left-0 ${
           showNav ? "top-[5.9%]" : "top-[-100%]"

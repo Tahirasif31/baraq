@@ -7,7 +7,7 @@ function Footer() {
     <footer className={`${styles.footer} bg-gray-900`}>
       <div className={styles.container}>
         <div className={styles.join}>
-          <h2 className={styles.logo}>AC Tech</h2>
+          <h2 className={styles.logo}>AL BARAQ FACILITIES</h2>
           <p className={styles.description}>
             Unlock year&ndash;round comfort with our premium AC repair
             solutions. Experience reliable service and cool relief,
@@ -16,11 +16,11 @@ function Footer() {
           <div className={styles.contactContainer}>
             <div className={styles.email}>
               <p className={styles.info}>Email us at</p>
-              <p className={styles.address}>Tahirasif31@gmail.com</p>
+              <p className={styles.address}>mohsinali@abfmservices.ae</p>
             </div>
             <div className={styles.phone}>
               <p className={styles.info}>Call us at</p>
-              <p className={styles.address}>+92 317 3362620</p>
+              <p className={styles.address}>+971 50 349 7413</p>
             </div>
           </div>
         </div>

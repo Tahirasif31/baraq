@@ -18,31 +18,31 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "Exceptional Service! The team at AC Tech exceeded my expectations with their AC repair and duct cleaning services. Prompt response, thorough inspection, and efficient repairs left my home feeling cooler and fresher than ever. Highly recommend their expertise!",
+      "Exceptional Service! The team at Al Baraq Facilities exceeded my expectations with their AC repair and duct cleaning services. Prompt response, thorough inspection, and efficient repairs left my home feeling cooler and fresher than ever. Highly recommend their expertise!",
     name: "Ahmed Abdullah Al-Mansoori",
     title: "Ras Al Khaimah",
   },
   {
     quote:
-      "شريك صيانة فعال للشركات! AC Tech كانت شريكنا الموثوق به لسنوات، وتقدم خدمات موثوقة في إصلاح تكييف الهواء وتنظيف الأنابيب. ما زالوا يبهرون بمهنيتهم وخبرتهم",
+      "شريك صيانة فعال للشركات! Al Baraq Facilities كانت شريكنا الموثوق به لسنوات، وتقدم خدمات موثوقة في إصلاح تكييف الهواء وتنظيف الأنابيب. ما زالوا يبهرون بمهنيتهم وخبرتهم",
     name: "عبدالله صالح الفلاسي",
     title: "أم القيوين",
   },
   {
     quote:
-      "Reliable Partner for Corporate Maintenance! As a facilities manager, I entrust AC Tech with the maintenance of our corporate AC systems and ductwork. Their team's expertise and dedication ensure that our facilities remain at optimal comfort levels year-round. ",
+      "Reliable Partner for Corporate Maintenance! As a facilities manager, I entrust Al Baraq Facilities with the maintenance of our corporate AC systems and ductwork. Their team's expertise and dedication ensure that our facilities remain at optimal comfort levels year-round. ",
     name: "Zahraat Al-Sayf",
     title: "Fujairah",
   },
   {
     quote:
-      "خدمة بخمس نجوم! لا يمكنني القول بما فيه الكفاية عن [اسم الشركة]. من جدولة الموعد إلى إكمال العمل، قدم فريقهم الاحترافية والخبرة في كل خطوة من الطريق",
+      "خدمة بخمس نجوم! لا يمكنني القول بما فيه الكفاية عن Al Baraq Facilities. من جدولة الموعد إلى إكمال العمل، قدم فريقهم الاحترافية والخبرة في كل خطوة من الطريق",
     name: "خالد علي الحمادي",
     title: "عجمان",
   },
   {
     quote:
-      "Outstanding Experience! I called AC Tech for AC repair and duct cleaning, and I'm incredibly impressed with the quality of their work. ",
+      "Outstanding Experience! I called Al Baraq Facilities for AC repair and duct cleaning, and I'm incredibly impressed with the quality of their work. ",
     name: "Fatima Mohammed Al-Hashemi",
     title: "Abu Dhabi ",
   },

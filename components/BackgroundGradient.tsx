@@ -24,7 +24,7 @@ export function BackgroundGradientDemo() {
           to optimize your system&apos;s performance and efficiency.
         </p>
         <button className="rounded-full pl-4 pr-1 py-1 text-white flex items-center space-x-1 bg-black mt-4 text-xs font-bold dark:bg-zinc-800">
-          <a href="#">
+          <a href="https://chatwith.io/s/al-baraq-facilitator">
             <span>Book now </span>
             <span className="bg-zinc-700 rounded-full text-[0.6rem] px-2 py-0 text-white">
               AED 150

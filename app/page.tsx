@@ -13,7 +13,7 @@ const review = [{}];
 
 const SERVICES = [
   {
-    title: "All Kind of Split / Ac Repair",
+    title: "All Kind of Ac Repair",
     description:
       "Our Split AC repair service offers quick and efficient solutions to keep your cooling system running smoothly. Our expert technicians diagnose and fix issues with precision, ensuring optimal performance and comfort.",
   },
@@ -56,7 +56,7 @@ const SERVICES = [
   {
     title: "Professional Paint Services",
     description:
-      "Enhance your online presence with our expert paint service, bringing vibrant colors and polished designs to your website. Elevate your brand today!",
+      "Revitalize your home or office with our skilled wall painting service. From color consultations to flawless execution, we've got you covered!",
   },
 ];
 

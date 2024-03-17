@@ -18,14 +18,14 @@ const SERVICES = [
       "Our Split AC repair service offers quick and efficient solutions to keep your cooling system running smoothly. Our expert technicians diagnose and fix issues with precision, ensuring optimal performance and comfort.",
   },
   {
-    title: "Split / Ac Installation",
+    title: "AC Ventilation Installation",
     description:
-      "Our Reliable Split AC installation services reliably guarantee efficient cooling. Our skilled technicians provide precise setup, ensuring maximum comfort and optimal performance tailored to your unique environment.",
+      "Experience our efficient AC ventilation installation service, guaranteeing optimal indoor air quality and comfort. Our expert technicians ensure a seamless installation process, providing peace of mind.",
   },
   {
-    title: "Split / Ac Maintenance",
+    title: "Air Filteration System Installation",
     description:
-      "Ensure your Split/AC system operates flawlessly with our maintenance services. Our expert technicians conduct thorough inspections, cleanings, and tune-ups to optimize performance and prolong the lifespan of your unit.",
+      "Discover our air filtration system installation service for superior indoor air quality. Our skilled technicians ensure seamless installation, promoting a healthy and comfortable environment",
   },
 
   {

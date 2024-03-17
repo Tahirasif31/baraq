@@ -42,7 +42,7 @@ export function HeroText() {
             <Image
               src={"/whatsapp.png"}
               alt="whatsapp"
-              className="mt-[4px]"
+              className="mt-[5px]"
               width={16}
               height={16}
             />

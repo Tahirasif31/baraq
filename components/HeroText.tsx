@@ -33,7 +33,12 @@ export function HeroText() {
       </p>
       <TypewriterEffectSmooth words={words} />
       <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 space-x-0 md:space-x-4">
-        <Link href={"https://chatwith.io/s/92971568125979"} target="_blank">
+        <Link
+          href={
+            "https://api.whatsapp.com/send/?phone=971568125979&text=Hi&type=phone_number&app_absent=0"
+          }
+          target="_blank"
+        >
           <button className="flex gap-1 py-1 align-middle animate-shimmer text-[13px] md:text-[16px] md:py-[15px] text-white bg-slate-900 justify-center rounded-[1.75rem] border-neutral-200  border  bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-[22px] font-medium  transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
             <span>Whatsapp</span>
             <Image

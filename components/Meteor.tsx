@@ -38,7 +38,11 @@ export function Meteor({ title, description }: MeteorProps) {
           <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
             {description}
           </p>
-          <Link href={"https://chatwith.io/s/92971568125979"}>
+          <Link
+            href={
+              "https://api.whatsapp.com/send/?phone=971568125979&text=Hi&type=phone_number&app_absent=0"
+            }
+          >
             <button className="flex gap-2 items-center border px-4 py-1 rounded-lg  border-gray-500 text-gray-300">
               Book Now
               <Image
